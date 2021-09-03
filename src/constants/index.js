@@ -8,22 +8,21 @@ exports.RESUME = 'resume';
 // Site Information
 exports.NAME = 'Gatsby Advanced Blog';
 exports.TITLE = 'Gatsby Advanced Blog';
-exports.PREFIX = 'WONISM | ';
+exports.PREFIX = 'UVACODER | ';
 exports.DESCRIPTION = 'Create your own blog with Gatsby Advanced Blog';
 exports.AUTHOR = 'wonism';
-exports.EMAIL = 'yocee57@gmail.com';
+exports.EMAIL = 'freeunioncoder@gmail.com';
 exports.KEYWORDS = [
   'Gatsby',
   'ReactJS',
 ].join(', ');
-exports.SITE_URL = 'https://wonism.github.io';
+exports.SITE_URL = 'https://gatsby-advanced-blog.vercel.app';
 exports.PROFILE = 'https://avatars3.githubusercontent.com/u/42737121?s=200&v=4';
 
 // Social
-exports.GITHUB_ID = 'wonism';
-exports.TWITTER_ID = 'j1ism';
-exports.FACEBOOK_ID = 'j1.chic';
-exports.LINKEDIN_ID = 'wonism';
+exports.GITHUB_ID = 'uvacoder';
+exports.TWITTER_ID = 'alec44738';
+exports.LINKEDIN_ID = 'alecbcampbell';
 
 // Disqus (Recommend you to use this)
 exports.DISQUS_ID = 'sample';
