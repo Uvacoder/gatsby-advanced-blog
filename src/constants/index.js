@@ -6,23 +6,23 @@ exports.PORTFOLIO = 'portfolio';
 exports.RESUME = 'resume';
 
 // Site Information
-exports.NAME = 'Gatsby Advanced Blog';
-exports.TITLE = 'Gatsby Advanced Blog';
-exports.PREFIX = 'UVACODER | ';
-exports.DESCRIPTION = 'Create your own blog with Gatsby Advanced Blog';
-exports.AUTHOR = 'wonism';
-exports.EMAIL = 'freeunioncoder@gmail.com';
+exports.NAME = 'Bgoonz Alternate Blog';
+exports.TITLE = 'Bgoonz Alternate Blog';
+exports.PREFIX = 'bgoonz | ';
+exports.DESCRIPTION = 'alternate experimentation blog';
+exports.AUTHOR = 'bgoonz';
+exports.EMAIL = 'bryan.guner@gmail.com';
 exports.KEYWORDS = [
   'Gatsby',
   'ReactJS',
 ].join(', ');
-exports.SITE_URL = 'https://gatsby-advanced-blog.vercel.app';
-exports.PROFILE = 'https://avatars3.githubusercontent.com/u/42737121?s=200&v=4';
+exports.SITE_URL = 'https://gatsbyadvancedblogmaster82908.gatsbyjs.io/';
+exports.PROFILE = 'https://avatars.githubusercontent.com/u/66654881?v=4';
 
 // Social
-exports.GITHUB_ID = 'uvacoder';
-exports.TWITTER_ID = 'alec44738';
-exports.LINKEDIN_ID = 'alecbcampbell';
+exports.GITHUB_ID = 'bgoonz';
+exports.TWITTER_ID = 'bgooonz';
+exports.LINKEDIN_ID = 'bryan-guner-046199128';
 
 // Disqus (Recommend you to use this)
 exports.DISQUS_ID = 'sample';
