@@ -1,0 +1,1 @@
+require("/workspaces/gatsby-advanced-blog/node_modules/gatsby/dist/utils/telemetry-server.js").default(46231)
