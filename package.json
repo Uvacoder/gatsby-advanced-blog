@@ -3,19 +3,10 @@
   "version": "1.1.5",
   "description": "Gatsby starter for advanced blog",
   "main": "n/a",
-  "author": "wonism",
   "license": "MIT",
-  "homepage": "https://github.com/wonism/gatsby-advanced-blog",
   "keywords": [
     "gatsby"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wonism/gatsby-advanced-blog.git"
-  },
-  "bugs": {
-    "url": "https://github.com/wonism/gatsby-advanced-blo/issues"
-  },
   "peerDependencies": {
     "gatsby": ">=2.2.9",
     "react": ">=16.8.5",
